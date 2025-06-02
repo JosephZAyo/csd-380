@@ -1,2 +1,6 @@
 # csd-380
-Instructor - Nathan Braun
+Bellevue University
+# CSD 380 DevOps
+## Contributors
+* Instructor - Nathan Braun
+* Author - Joseph Ayo
